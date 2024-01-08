@@ -1,2 +1,2 @@
-# homelib-tools
-A set of tools to manage a home media library.
+# homelib
+Tools for cataloguing a home media library.
